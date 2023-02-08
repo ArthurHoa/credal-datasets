@@ -7,8 +7,8 @@ Most datasets used for classification use hard labels. These Credal datasets wer
 ## Reference
 
 When using one of those datasets please cite :  
-C. Thierry, A. Hoarau, A. Martin, J.-C. Dubois, Y. Le Gall, Real bird
-dataset with imprecise and uncertain values, in: *7th International Con-
+C. Thierry, A. Hoarau, A. Martin, J.-C. Dubois, Y. Le Gall, "Real bird
+dataset with imprecise and uncertain values", in: *7th International Con-
 ference on Belief Functions*, 2022.
 
 ## Interface
