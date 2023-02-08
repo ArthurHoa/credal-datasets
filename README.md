@@ -62,7 +62,7 @@ Credal dataset
 ```
 
 ### Access to pictures
-You can access all the pictures and decide to use them as observations by following this link : [Credal Datasets Pictures](https://www.dropbox.com/sh/fwc4xf09ti12dt3/AADJNlncG6b3Z_3jdiVUsnTha?dl=0)  
+You can access all the pictures and decide to use them as observations by following this link : [Credal Datasets Pictures](https://www.dropbox.com/scl/fo/ylaf7k4pguepiycsaqfiu/h?dl=0&rlkey=3m4l153wr9g6vfjuj17g1kwmm)  
 Refer to data/X_pictures.csv to know which picture corresponds to which observation.
 
 ## Credal Dog-7
