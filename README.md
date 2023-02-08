@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Most datasets used for classification use hard labels. These Credal datasets were labeled uncertainly and imprecisely by contributors during crowdsourcing campaigns. Resulting in richer labels, modeled with the theory of belief funtions, which generalizes several reasoning frameworks with uncertainty, such as  possibilities or fuzzy approaches or even classical probabilites. These datasets can be used with classical models using hard labels but also with probabilistic, fuzzy or even evidential models.
+Most datasets used for classification use hard labels. These Credal datasets were labeled uncertainly and imprecisely by contributors during crowdsourcing campaigns. Resulting in richer labels, modeled with the theory of belief funtions, which generalizes several reasoning frameworks with uncertainty, such as  possibilities, fuzzy approaches or even classical probabilites. These datasets can be used with classical models using hard labels but also with probabilistic, fuzzy or even evidential models.
  
 ## Reference
 
