@@ -17,7 +17,20 @@ The following interface was used during crowdsourcing campaigns:
 
 <img src="ressources/interface.png" width="600">
 
-## Descriptions
+## Description
+
+### Summary
+
+
+| Dataset     | Classes     | Observations  | Features |  
+| :---        |    :----:   |         :---: | :---:   |  
+| Credal Dog-7      | 7       | 700   | 43 |  
+| Credal Dog-4      | 4       | 400   | 47 |  
+| Credal Dog-2      | 2       | 200   | 42 |  
+| Credal Bird-10    | 10      | 200   | 30 |  
+| Credal Bird-2     | 2       | 40    | 17 |  
+
+### Architecture
 
 Each dataset has its own directory:
 
