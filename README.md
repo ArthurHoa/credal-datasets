@@ -49,7 +49,7 @@ Credal dataset
 │   ├── classes.csv: Classes of the dataset
 │   ├── X.csv: Features of the dataset
 │   ├── X_512.csv: Learge 512 features vector of the dataset
-│   ├── X_pictures.csv: Rawn features (The picture itself)
+│   ├── X_pictures.csv: Raw features (The picture itself)
 │   ├── y.csv: Rich labels
 │   └── y_true.csv: True labels
 └──  extra
